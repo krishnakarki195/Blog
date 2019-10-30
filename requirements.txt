@@ -3,7 +3,7 @@ chardet==3.0.4
 colorama==0.4.1    
 Django==2.2.4    
 djangorestframework==3.10.2   
-httpie==1.0.2    
+httpie==1.0.3    
 idna==2.8      
 pip==19.2.1   
 Pygments==2.4.2    
